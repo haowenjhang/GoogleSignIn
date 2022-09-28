@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./GoogleSignIn_lib/libs/classes.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GoogleSignIn_lib/libs/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

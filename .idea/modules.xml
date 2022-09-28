@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleSIgnIn.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleSIgnIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleSignIn_lib/GoogleSIgnIn.GoogleSignIn_lib.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleSignIn_lib/GoogleSIgnIn.GoogleSignIn_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleSignIn_lib/GoogleSIgnIn.GoogleSignIn_lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleSignIn_lib/GoogleSIgnIn.GoogleSignIn_lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleSignIn_lib/GoogleSIgnIn.GoogleSignIn_lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleSignIn_lib/GoogleSIgnIn.GoogleSignIn_lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleSignIn_lib/GoogleSIgnIn.GoogleSignIn_lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleSignIn_lib/GoogleSIgnIn.GoogleSignIn_lib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GoogleSIgnIn.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GoogleSIgnIn.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GoogleSIgnIn.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GoogleSIgnIn.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GoogleSIgnIn.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GoogleSIgnIn.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GoogleSIgnIn.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GoogleSIgnIn.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
