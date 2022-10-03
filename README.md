@@ -8,4 +8,6 @@
 4. build.gradle Add  
    - `implementation 'com.google.android.gms:play-services-games:23.0.0'`
    - `implementation 'com.google.android.gms:play-services-auth:20.3.0'`
+
+
 5. web_client_id Add GoogleCloud `Client ID`
