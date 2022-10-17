@@ -1,6 +1,6 @@
-# GoogleSingnIn
+# GoogleSignIn
 
-GoogleSingnIn is a library for Unity
+GoogleSignIn is a library for Unity
 
 ## Usage
 
